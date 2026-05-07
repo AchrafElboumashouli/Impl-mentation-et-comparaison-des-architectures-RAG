@@ -1,0 +1,2 @@
+# Impl-mentation-et-comparaison-des-architectures-RAG
+Implémentation avancée de plusieurs architectures RAG (Retrieval-Augmented Generation) pour la génération automatique de règles YARA en cybersécurité.  Ce projet explore différentes approches de retrieval et de génération basées sur les LLMs afin d’améliorer la détection de menaces, l’analyse de malware et la création automatique de règles YARA.
