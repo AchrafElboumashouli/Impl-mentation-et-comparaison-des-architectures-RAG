@@ -36,6 +36,12 @@ Ce dépôt contient :
 
 ---
 
+
+
+# 🚀 RAG Architectures Comparative Dashboard
+![Dashboard](dashboard.png)
+
+
 # 🏗️ Architectures Implémentées
 
 ## 1. Baseline — LLM sans RAG
